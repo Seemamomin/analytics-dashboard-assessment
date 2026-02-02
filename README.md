@@ -45,3 +45,5 @@ Your submission will be evaluated based on:
   - ajayap@mapup.ai
   - atharvd@mapup.ai
 - Finally, please fill out the google form that you received via email to submit the assessment for review.
+
+Live dashboard URL:https://seemamomin.github.io/analytics-dashboard-assessment/
